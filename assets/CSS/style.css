@@ -27,7 +27,7 @@ header h1 {
 
 /* Score Board*/
 
-.score-board{
+.score_board{
     border: 3px solid white;
     width:300px;
     margin:20px auto;
